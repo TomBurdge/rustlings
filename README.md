@@ -32,5 +32,5 @@ Therefore, this is the result of some hours (mostly during train journeys), revi
 - [X] 19_smart_pointers
 - [X] 20_threads
 - [X] 21_macros
-- [ ] 22_clippy
+- [X] 22_clippy
 - [ ] 23_conversions
