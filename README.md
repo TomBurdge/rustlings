@@ -33,4 +33,4 @@ Therefore, this is the result of some hours (mostly during train journeys), revi
 - [X] 20_threads
 - [X] 21_macros
 - [X] 22_clippy
-- [ ] 23_conversions
+- [X] 23_conversions
