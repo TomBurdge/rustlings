@@ -10,8 +10,8 @@ For me, rustlings feel a little more like exercises than pedgagogic devices for 
 Therefore, this is the result of some hours (mostly during train journeys), revising rust concepts and working through the exercises.
 
 #### Still TODO:
-- [ ] 19_smart_pointers
-- [ ] 20_threads
-- [ ] 21_macros
+- [X] 19_smart_pointers
+- [X] 20_threads
+- [X] 21_macros
 - [ ] 22_clippy
 - [ ] 23_conversions
