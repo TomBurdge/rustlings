@@ -9,7 +9,26 @@ For me, rustlings feel a little more like exercises than pedgagogic devices for 
 
 Therefore, this is the result of some hours (mostly during train journeys), revising rust concepts and working through the exercises.
 
-#### Still TODO:
+#### Progress:
+- [X] 00_intro            
+- [X] 01_variables
+- [X] 02_functions        
+- [X] 03_if               
+- [X] 04_primitive_types  
+- [X] 05_vecs             
+- [X] 06_move_semantics   
+- [X] 07_structs
+- [X] 08_enums
+- [X] 09_strings
+- [X] 10_modules
+- [X] 11_hashmaps
+- [X] 12_options 
+- [X] 13_error_handling
+- [X] 14_generics
+- [X] 15_traits
+- [X] 16_lifetimes
+- [X] 17_tests
+- [X] 18_iterators
 - [X] 19_smart_pointers
 - [X] 20_threads
 - [X] 21_macros
